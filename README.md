@@ -1,14 +1,11 @@
+<img width="1023" alt="world" src="https://user-images.githubusercontent.com/23660099/217055070-c4c7d787-5d7d-473c-933c-84eb5a180703.png">
 
 # <div align="center">`Correlation does not imply Causation`
   
 <br/>
-</h2>  
-<br/>
-<img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/world.png ></h2>
-<br/>  
-  
-  
-  
+
+ 
+ 
 ## Hi there :wave:
   
 <p align="justify"> 
