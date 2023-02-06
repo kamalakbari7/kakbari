@@ -1,11 +1,13 @@
-<br/>
-<img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/world.png ></h2>
-<br/>
-
 
 # <div align="center">`Correlation does not imply Causation`
   
 
+<br/>
+<img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/world.png ></h2>
+<br/>  
+  
+  
+  
 ## Hi there :wave:
   
 <p align="justify"> 
