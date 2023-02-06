@@ -48,7 +48,7 @@ I love **Spatial Data Science** because :arrow_down:
 ####  
   ## Contact
 
-👨🏻‍💻Please feel free to to contact!💁🏻‍♂️ [Email](nakul.bhati@yahoo.in)
+👨🏻‍💻Please feel free to to contact via this email!💁🏻‍♂️ [Email](nakul.bhati@yahoo.in)
 
 ####
 
