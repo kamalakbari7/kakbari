@@ -10,11 +10,14 @@
 ####
   
 <p align="justify"> 
-**My interests:** Spatial Analysis, Causal Inference, Agent-Based Modelling, Mobility Analysis, GeoMarketing, Spatial Data Mining, and Spatial Data Management</p>
+  
+**My interests:** Spatial Analysis, Causal Inference, Agent-Based Modelling, Mobility Analysis, GeoMarketing, Spatial Data Mining, and Spatial Data 
+Management</p>
   
   ####
   
 <p align="justify"> 
+  
 **Technical skills:** Teamwork, Leadership, Programming Languages( Python and R), Tools and software (ArcGIS Pro, QGIS, FME, ENVI, Tableau, Shiny in R & Python, and ERDAS)</p>
   
 ####
