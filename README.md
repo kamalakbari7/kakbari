@@ -1,8 +1,9 @@
 
+
 # <div align="center">`Correlation does not imply Causation`
   
 <div id="header" align="center">
-  <img src="hhttps://github.com/kamalakbari7/kamalakbari7/blob/main/images/world.png width="100"/>
+  <img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/world.png width="100"/>
 </div>
 
 ## Hi there :wave:
