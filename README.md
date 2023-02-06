@@ -33,10 +33,15 @@ Management</p>
   
 ####
   
-**Current activities:** Developing a `Python package related to my research` and finalising the thesis
+**Currently I am working on:** Developing a `Python package related to my research` and finalising the thesis
 
 ####
+  
+**Currently I am learning:** `AWS` and `Implementing Deep learning methods`
 
+####
+  
+  
 I love **Spatial Data Science** because :arrow_down:
   
  
