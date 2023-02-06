@@ -33,7 +33,7 @@ Management</p>
   
 ####
   
-**Currently I am working on:** Developing a `Python package related to my research` and finalising the thesis
+**Currently I am working on:** Developing a `Python package related to my PhD research` and finalising the thesis
 
 ####
   
