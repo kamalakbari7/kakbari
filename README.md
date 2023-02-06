@@ -12,7 +12,7 @@
 <p align="justify"> 
 **Skills:** Teamwork, Leadership, Programming Languages( Python and R), Tools and software (ArcGIS Pro, QGIS, FME, ENVI, Tableau, Shiny in R & Python, and ERDAS)</p>
 
-**Current activities:** Developing a Python package related to my research and finalising the thesis
+**Current activities:** Developing a `Python package related to my research` and finalising the thesis
 
 
 
