@@ -1,5 +1,5 @@
 <br/>
-<img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/world.png width="100"></h2>
+<img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/world.png ></h2>
 <br/>
 
 
