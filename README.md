@@ -1,4 +1,4 @@
-<img width="745" alt="world1" src="https://user-images.githubusercontent.com/23660099/217056377-13010989-65dc-4979-a55b-9732f9b2b937.png">
+<img width="960" alt="world1" src="https://user-images.githubusercontent.com/23660099/217056695-4dc17549-99f9-464b-a3e9-5a3a0181432d.png">
 
 # <div align="center">`Correlation does not imply Causation`
   
