@@ -37,7 +37,7 @@ Management</p>
 
 ####
   
-**Currently I am learning:** `AWS` and `Implementing Deep learning methods`
+**Currently I am learning:** `AWS` and `Implementing Deep learning methods on spatial data`
 
 ####
   
