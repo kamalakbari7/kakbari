@@ -37,7 +37,7 @@ Management</p>
 
 ####
   
-**Currently I am learning:** `AWS` and `Implementing Deep learning methods on spatial data`
+**Currently I am learning:** `ML wih Spark`, `AWS` and `Deep learning on spatiotemporal data`
 
 ####
   
@@ -53,7 +53,7 @@ I love **Spatial Data Science** because :arrow_down:
 ####  
   ## Contact
 
-👨🏻‍💻Please feel free to to contact via this email!💁🏻‍♂️ [Email](nakul.bhati@yahoo.in) or find me in this social medias: :arrow_down:
+👨🏻‍💻Please feel free to to contact via this email!💁🏻‍♂️ [Email](kamalakbari77@gmail.com) or find me in this social medias: :arrow_down:
 
 ####
 
