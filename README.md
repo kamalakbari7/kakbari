@@ -37,7 +37,7 @@ Management</p>
 
 ####
   
-**Currently I am learning:** `ML wih Spark`, `AWS` and `Deep learning on spatiotemporal data`
+**Currently I am learning:** `ML wih Spark`, `AWS` and `Deep Learning on Spatiotemporal Data`
 
 ####
   
