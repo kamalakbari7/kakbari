@@ -60,4 +60,4 @@ I love **Spatial Data Science** because :arrow_down:
 
 <a href="https://twitter.com/kamalakbari7"><img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/twitter.png" alt="Twitter" width="30"></a>
 <a href="https://www.linkedin.com/in/kamalakbari/" target="_blank"><img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/linkedin.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/kamalakbari7" target="_blank"><img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/git.png" alt="GitHub" width="30"></a>
+[//]: # <a href="https://github.com/kamalakbari7" target="_blank"><img src="https://github.com/kamalakbari7/kamalakbari7/blob/main/images/git.png" alt="GitHub" width="30"></a>
